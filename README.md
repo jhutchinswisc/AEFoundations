@@ -103,6 +103,7 @@ concrete.
 
 - Ag and growth
 - Two sector models
+- Rural communities
 
 ### Environment
 
