@@ -35,32 +35,30 @@ validation rigour.
 
 As an applied economist, however, my approach is pragmatic: if our models make
 sense, and our measurements provide meaningful prescriptive advice, then we are
-more likely to be persuasive than someone who theorizes about behavior without
-stating their model assumptions explicitly and exposing their model to
-empirical validation. With a model I cannot prove that I am right, or that
-someone else is wrong; I can only hope to be more persuasive in policy debate.
-Most importantly, I believe we're much better off making policy choices using
-faulty models and messy data than using inscrutable and untestable opinion.
+more likely to be (and be seen as) useful to decision makers. With a model I
+cannot prove that I am right, or that another model is is wrong. But I do
+believe we're much better off making policy choices using faulty models and
+messy data than using modesl based on inscrutable and untestable opinion.
 Models and data at least impose intellectual discpline and lay bare one's
 assumptions for scrutiny by others.
 
 One further distinction exists between data-driven and model-driven science. A
 statistician with enough data may be able to predict behavior better than a
 social scientist who imposes functional form and other model-derived
-assumptions during estimation. But who is likely to be more persuasive in
-policy debate? I think the answer is (of course!), that it depends. If the
-prediction is short run, and if we don't care about policy, then probably the
-statistician will be more persuasive. If I am betting whether Amazon's stock
-price will go up or down tomorrow, I might have greater confidence in the
-statistician's purely predictive model. On the other hand, if I want to know
-how demand for Kindle readers will change in response to a change in Amazon's
-price, or if I'd like to know something more specific like the *profit
-maximizing* price of Kindle readers for Amazon, then I need a model that
-connects consumer behavior to price, and price to profit. With enough data, the
-statistician can of course predict profit, but not outside the range of prices
-that are normally charged. This is where a structural behavioral model adds
-value. It provide a persuasive story for us that provides some degree of
-confidence (mabye not a lot!) in taking our predictions into counterfactual
+assumptions during estimation. But whose model is more useful in the context of
+a policy decision? I think the answer is (of course!), that it depends. If the
+prediction is short run, and the policy change is modest in scope, then
+probably the statistician will be more persuasive. If I am betting whether
+Amazon's stock price will go up or down tomorrow, I might have greater
+confidence in the statistician's purely predictive model. On the other hand, if
+I want to know how demand for Kindle readers will change in response to a
+change in Amazon's price, or if I'd like to know something more specific like
+the *profit maximizing* price of Kindle readers for Amazon, then I need a model
+that connects consumer behavior to price, and price to profit. With enough
+data, the statistician can of course predict profit, but not outside the range
+of prices that are normally charged. This is where a structural behavioral
+model adds value. It provide a plausible story for us that provides some degree
+of confidence (mabye not a lot!) in taking our predictions into counterfactual
 worlds.
 
 If this all sounds rather philosphical, don't worry! we will consider several
