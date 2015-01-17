@@ -31,7 +31,6 @@ ex_post_return = a*L*R1 + (1-a)*L*R2
 # Utility conditional on allocation decision x
 u_a = lambda a: u(ex_post_return)
 
-
 # Note that I'm manually factoring L and then implicitly
 # setting the equation to zero and removing L (by setting it to 1).
 # Solving this equation is a little tricky.
