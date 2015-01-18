@@ -10,15 +10,15 @@ representing a survey of the field (for that see the Handbook).
 
 ### Agricultural Economics Historical Overview
 
-We will not discuss this paper in class, but I recommend highly reading this
-very nice piece by Ford Runge on historical antecedents for the field.
+We will not discuss it in class, but I recommend highly reading this very nice
+piece by Ford Runge on historical antecedents for the field.
 
 - Runge, C. Ford. Agricultural Economics: A Brief Intellectual History. Staff
   Paper. University of Minnesota, Department of Applied Economics, 2006.
 
 ### Risk (2 weeks)
 
-Moschini and Hennessy provide a nice overview of risk and uncertainty in economic decision making, including a brief, but informative development of expected utility theory. Read this first as background four our learing during this part of the course.
+Moschini and Hennessy provide a nice overview of risk and uncertainty in economic decision making, including a brief, but informative development of expected utility theory. Read this first as background for our learing during this part of the course.
 
 - Moschini, Giancarlo, and David A. Hennessy. “Chapter 2 Uncertainty, Risk
   Aversion, and Risk Management for Agricultural Producers.” In Handbook of
