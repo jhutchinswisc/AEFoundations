@@ -22,11 +22,11 @@ derivation, data analysis, writing, and presentation.
 
 #### Learning Objectives
 
-1. Develop an appreciation for the historical development and contemporary
+1. Develop an appreciation for the historical antecedents and contemporary
    status of food and agricultural economics as a field, and for the full range
    of economic and policy interactions among related development,
    environmental, and health fields.
-g1. Learn how to read academic papers critically: identify key assumptions,
+1. Learn how to read academic papers critically: identify key assumptions,
    evaluate relevance and robustness of stated results, and assess extent of
    contribution in light of previous related work.
 1. Gain a sense for the art of building simple mathematical models as aids to
