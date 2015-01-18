@@ -79,12 +79,15 @@ farmers behave as producers.
 
 Cross-country differences, household consumption, riots.
 
-- Dubois, Griffith, and Nevo, “Do Prices and Attributes Explain International
-  Differences in Food Purchases?”
-- Deaton and Paxson, “Economies of Scale, Household Size, and the Demand for
-  Food.”
-- Bellemare, “Rising Food Prices, Food Price Volatility, and Social Unrest.”
-
+- Bellemare, Marc F. “Rising Food Prices, Food Price Volatility, and Social
+  Unrest.” American Journal of Agricultural Economics 97, no. 1 (January 1,
+  2015): 1–21.
+- Dubois, Pierre, Rachel Griffith, and Aviv Nevo. “Do Prices and Attributes
+  Explain International Differences in Food Purchases? †.” American Economic
+  Review 104, no. 3 (March 2014): 832–67.
+- Deaton, Angus, and Christina Paxson. “Economies of Scale, Household Size, and
+  the Demand for Food.” Journal of Political Economy 106, no. 5 (October 1,
+  1998): 897–930.
 
 ### Markets (2 weeks)
 
