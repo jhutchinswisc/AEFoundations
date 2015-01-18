@@ -51,8 +51,7 @@ where it comes from?
   Productivity.” American Journal of Agricultural Economics 57, no. 5 (December
   1975): 910.
 - Griliches, Zvi, and Jacques Mairesse. Production Functions: The Search for
-  Identification. Working Paper. National Bureau of Economic Research, March
-  1995. http://www.nber.org/papers/w5067.
+  Identification. Working Paper. National Bureau of Economic Research, March 1995. 
 - Lau, Lawrence J., and Pan A. Yotopoulos. “A Test for Relative Efficiency and
   Application to Indian Agriculture.” The American Economic Review 61, no. 1
   (March 1, 1971): 94–109.
