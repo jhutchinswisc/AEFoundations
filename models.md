@@ -10,8 +10,8 @@ normative judgements about policy, and to simulate economic and social welfare
 outcomes in counterfactual worlds.
 
 This framework is persuasive only to the extent that our models offer a
-compelling story that has some predictive power with respect measured
-phenomena. The fact is that it's really hard to write down a well-specified
+compelling story that has some predictive power with respect to measured
+phenomena. The fact is that it's hard to write down a well-specified
 mathematical model that can describe real-world behavior. A nice model is
 intuitive and easy to explain, and yet is sufficiently rich that it can predict
 something unexpected or counterintuitive that *actually occurs*. If these
@@ -38,7 +38,7 @@ sense, and our measurements provide meaningful prescriptive advice, then we are
 more likely to be (and be seen as) useful to decision makers. With a model I
 cannot prove that I am right, or that another model is is wrong. But I do
 believe we're much better off making policy choices using faulty models and
-messy data than using modesl based on inscrutable and untestable opinion.
+messy data than using models based on inscrutable and untestable opinion.
 Models and data at least impose intellectual discpline and lay bare one's
 assumptions for scrutiny by others.
 
