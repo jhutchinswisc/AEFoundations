@@ -33,6 +33,8 @@ Here are a few pointers to computation and version-control resources:
   organizations like the [Open Economics Working
   Group](http://openeconomics.net/), and the [Replication in Economics
   Wiki](http://replication.uni-goettingen.de/wiki/index.php/Main_Page).
+- Experiments are increasingly used by economists for applied research, market
+  design, and teaching. We will not cover experimental methods in this course, though we will discuss several experimental papers. [Otree](http://www.otree.org/) is a great new tool (writtin in Python, of course!) for conducting experiments.
 
 ### Miscellaneneous Tips from Around the Web
 
