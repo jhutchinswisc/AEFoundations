@@ -47,9 +47,11 @@ derivation, data analysis, writing, and presentation.
 
 - I will distribute at least one homework assignment per topic module.
 - You will identify and replicate the results of one published research paper
-  that is relevant to the theme of this course.
+  that is relevant to the theme of this course, and prepare a written report.
 - I will ask you to prepare responses to questions I ask in anticipation of
   classroom discussion of published research.
+
+Each of these assignments will carry roughly equal weight when I assign grades for the class. There will be no exams.
 
 #### Miscellaneous
 
