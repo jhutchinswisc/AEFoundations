@@ -1,7 +1,7 @@
-In this course I provide students perspective on broad countours of the food
-and agricultural economics field, including its historical development and
-current active research themes. I highlight economic and policy interactions
-that connects the field to related development, environment, and health fields
+In this course I provide perspective on broad countours of the food and
+agricultural economics field, including its historical development and current
+active research themes. I highlight economic and policy interactions that
+connects the field to related development, environment, and health fields
 within economics. The class also provides students an introduction to applied
 research methodology with hands on data analysis and discussion of the varied
 research strategies used by economists and other social scientists. In class, I

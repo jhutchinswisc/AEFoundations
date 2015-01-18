@@ -1,4 +1,4 @@
-### Risk (2 weeks)
+### Risk
 
 - Moschini and Hennessy, “Chapter 2 Uncertainty, Risk Aversion, and Risk
   Management for Agricultural Producers.”
@@ -9,7 +9,7 @@
 - Kimball, “Farmers’ Cooperatives as Behavior toward Risk.”
 - Cafiero et al., “The Empirical Relevance of the Competitive Storage Model.”
 
-### Productivity (2 weeks)
+### Productivity
 
 - Just and Pope, “Chapter 12 The Agricultural Producer.”
 - Christensen, “Concepts and Measurement of Agricultural Productivity.”
@@ -22,13 +22,13 @@
 - Carletto, Savastano, and Zezza, “Fact or Artifact: The impact of measurement
   errors on the farm size–productivity relationship”
 
-### Household Production (1 week)
+### Household Production
 
 - Fall and Magnac, “How Valuable Is On-Farm Work to Farmers?”
 - Udry, “Gender, Agricultural Production, and the Theory of the Household.”
 - Benjamin, “Household Composition, Labor Markets, and Labor Demand.”
 
-### Food Demand (1 week)
+### Food Demand
 
 - Dubois, Griffith, and Nevo, “Do Prices and Attributes Explain International
   Differences in Food Purchases?”

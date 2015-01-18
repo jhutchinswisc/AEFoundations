@@ -1,9 +1,8 @@
 ### Tools
 
 > Le bon ouvrier a toujours les bons outils ("the good worker always uses good
-> tools").
-
-
+> tools").  
+> Andre Garros
 
 You will take courses from many professors while you here at the University of
 Wisconsin--Madison. Each will have their own style and toolkit for conducting

@@ -6,18 +6,20 @@
 
 ### Productivity (2 weeks)
 
-- This is where growth comes from. How to measure and determine where it comes
-  from. There is so much still that we do not know.
+- This is where growth comes from. How do we measure and determine where it
+  comes from. There is so much still that we do not know.
 
 ### Household Production (1 week)
 
-- Farming is still largely a family operation. We won't ask why for now.
+- Farming is still largely a family operation. We won't ask why for now, but we
+  will examine the consequences of "household production" for thinking about
+  how farmers behave as producers.
 
 ### Food Demand (1 week)
 
-- Riots
 - Cross-country differences
 - Household consumption
+- Riots
 
 ### Markets (2 weeks)
 
@@ -30,7 +32,7 @@
 
 ### Firms and Contracts (2 weeks)
 
-- Model from IO class relating incentives for integration
+- Incentives for integration (strategy class notes)
 - Hennessy
 - Hueth and Ligon
 - Contracts and markets
