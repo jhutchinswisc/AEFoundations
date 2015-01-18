@@ -43,7 +43,7 @@ derivation, data analysis, writing, and presentation.
 
 #### [Course Outline and Readings](./course_outline.md)
 
-#### Assignments, Exams, and Grading
+#### Assignments and Grading
 
 - I will distribute at least one homework assignment per topic module.
 - You will identify and replicate the results of one published research paper
