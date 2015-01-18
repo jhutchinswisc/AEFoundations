@@ -41,7 +41,7 @@
         rice.
 """
 
-class Farmer(land_endowment):
+class Farmer(land_endowment,preference_parm,productivity_parm):
 	"""An individual who is risk averse and who chooses an allocation of his
 	land across two possible crops. 
 
