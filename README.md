@@ -26,7 +26,7 @@ derivation, data analysis, writing, and presentation.
    status of food and agricultural economics as a field, and for the full range
    of economic and policy interactions among related development,
    environmental, and health fields.
-1. Learn how to read academic papers critically: identify key assumptions,
+g1. Learn how to read academic papers critically: identify key assumptions,
    evaluate relevance and robustness of stated results, and assess extent of
    contribution in light of previous related work.
 1. Gain a sense for the art of building simple mathematical models as aids to
@@ -41,7 +41,7 @@ derivation, data analysis, writing, and presentation.
    analytical, computing, data processing, version control, and publishing
    tools.
 
-#### [Course Outline and Readings](./course_outline)
+#### [Course Outline and Readings](./course_outline.md)
 
 #### Assignments, Exams, and Grading
 
