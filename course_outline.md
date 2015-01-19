@@ -1,17 +1,24 @@
+## Course Topics and Readings
+
 This is a tentative outline and schedule for the topics we will cover. All readings can be found in our Zotero course library or through the campus library system.
 
-To permit ample time for analysis and problem solving, I will not attempt anything near comprehensive coverage of the field. For this, you can consult the now massive [4 volume Handbook series on Agricultural Economics](http://www.sciencedirect.com.ezproxy.library.wisc.edu/science/handbooks/15740072/4)  published by Elsevier. The first two volumes were edited by the late Bruce Gardner and Gordon Rausser, and the more recent two (focusing on economic develpment and trade) by Robert Evenson and Prabhu Pingali.
+To permit ample time for analysis and problem solving, I will not attempt
+anything near comprehensive coverage of the field. For this, you can consult
+the [4 volume Handbook series on Agricultural Economics](http://www.sciencedirect.com.ezproxy.library.wisc.edu/science/handbooks/15740072/4)  published by
+Elsevier. The first two volumes were edited by the late Bruce Gardner and
+Gordon Rausser, and the more recent two (focusing on economic develpment and
+trade) by Robert Evenson and Prabhu Pingali.
 
 Instead, I will focus on a few key topics, and a small handful of papers within
 each topic that I hope provide a representative sample of issues and research
 designs that are typical in the field. My intent is that you read carefully
-read each of the papers I assign. This is not a "kitchen-sink" reading list
+each of the papers I assign. This is not a "kitchen-sink" reading list
 representing a survey of the field (for that see the Handbook).
 
 ### Agricultural Economics Historical Overview
 
-We will not discuss it in class, but I recommend highly reading this very nice
-piece by Ford Runge on historical antecedents for the field.
+We will not discuss it in class, but I recommend reading this very nice piece
+by Ford Runge on historical antecedents for the field.
 
 - Runge, C. Ford. Agricultural Economics: A Brief Intellectual History. Staff
   Paper. University of Minnesota, Department of Applied Economics, 2006.
@@ -37,8 +44,8 @@ Moschini and Hennessy provide a nice overview of risk and uncertainty in economi
 
 ### Productivity (2 weeks)
 
-Productivity is is where growth comes from. How do we measure it and determine
-where it comes from?
+Productivity growth is the ulimate source of wealth creation. How do we measure
+it and determine where it comes from?
 
 - Just, Richard E., and Rulon D. Pope. “Chapter 12 The Agricultural Producer:
   Theory and Statistical Measurement.” In Handbook of Agricultural Economics,

@@ -8,15 +8,15 @@
 
 #### Course Description
 
-I provide perspective on broad countours of the food and agricultural economics
-field, including its historical development and current active research themes.
-I highlight economic and policy interactions that connect the field to related
-development, environment, and health fields within economics. The course also
-provides students an introduction to applied research methodology with ample
-opportunity to conduct hands-on data analysis, and to explore the the varied
-research strategies used by economists and other social scientists. In class, I
-split time between discussion and problem solving. All discussion will,
-however, be directed toward specific questions for which I will ask students to
+This course provides perspective on broad countours of the food and
+agricultural economics field, including its historical development and current
+active research themes. I highlight economic and policy interactions that
+connect the field to related development, environment, and health fields. The
+course also provides students an introduction to applied research methodology
+with ample opportunity to conduct hands-on data analysis, and to explore the
+variety of strategies used by economists and other social scientists to conduct
+research. Class time is split between discussion and problem solving with
+discussion focused on specific questions for which I will often ask students to
 prepare written responses. Likewise, problems require a mix of analytic
 derivation, data analysis, writing, and presentation.
 
