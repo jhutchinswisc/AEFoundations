@@ -1,16 +1,17 @@
 ### Risk
 
 Human beings have provided some form of insurance to one another for at least
-as long as recorded time (e.g., @bogucki11), and the
-modern world is full of institutional arrangements that protect individuals
-against risk. One way way to derive demand for these institutions from an
-economic model is to assume that individuals are inherently *risk averse* in
-the sense that they are willing to pay something now in return for a more
-certain outcome in the future. The *expected utility* model is a simple
-representation for this sort of preference. In it, we assume that individuals
-can rank choices that influence the probability distribution over uncertain
-future outcomes by comparing the expected value of an increasing
-state-independent concave utility function $u(\cdot)$ across choices.
+as long as recorded time (e.g., @bogucki_wealth_2011, @clare_pastoral_2010,
+@trenerry_origin_1926), and the modern world is full of institutional
+arrangements that protect individuals against risk. One way way to derive
+demand for these institutions from an economic model is to assume that
+individuals are inherently *risk averse* in the sense that they are willing to
+pay something now in return for a more certain outcome in the future. The
+*expected utility* model is a simple representation for this sort of
+preference. In it, we assume that individuals can rank choices that influence
+the probability distribution over uncertain future outcomes by comparing the
+expected value of an increasing state-independent concave utility function
+$u(\cdot)$ across choices.
 
 Let's think about this, and how it m
 

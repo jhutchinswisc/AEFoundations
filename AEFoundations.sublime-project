@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/hueth/Dropbox/projects/AEFoundations"
+		}
+	],
+	"settings":
+	[
+		"bibtex_file_path": "./references.bib"
+	]
+}
