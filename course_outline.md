@@ -3,7 +3,7 @@ This is a tentative outline and schedule for the topics we will cover. All readi
 To permit ample time for analysis and problem solving, I will not attempt anything near comprehensive coverage of the field. For this, you can consult the now massive [4 volume Handbook series on Agricultural Economics](http://www.sciencedirect.com.ezproxy.library.wisc.edu/science/handbooks/15740072/4)  published by Elsevier. The first two volumes were edited by the late Bruce Gardner and Gordon Rausser, and the more recent two (focusing on economic develpment and trade) by Robert Evenson and Prabhu Pingali.
 
 Instead, I will focus on a few key topics, and a small handful of papers within
-each topic that I hope provide a representative sampl of issues and research
+each topic that I hope provide a representative sample of issues and research
 designs that are typical in the field. My intent is that you read carefully
 read each of the papers I assign. This is not a "kitchen-sink" reading list
 representing a survey of the field (for that see the Handbook).
@@ -18,7 +18,7 @@ piece by Ford Runge on historical antecedents for the field.
 
 ### Risk (2 weeks)
 
-Moschini and Hennessy provide a nice overview of risk and uncertainty in economic decision making, including a brief, but informative development of expected utility theory. Read this first as background for our learing during this part of the course.
+Moschini and Hennessy provide a nice overview of risk and uncertainty in economic decision making, including a brief, but informative development of expected utility theory. Read this first as background for our learning during this part of the course.
 
 - Moschini, Giancarlo, and David A. Hennessy. “Chapter 2 Uncertainty, Risk
   Aversion, and Risk Management for Agricultural Producers.” In Handbook of

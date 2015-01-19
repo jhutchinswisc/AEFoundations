@@ -6,7 +6,7 @@
 
 # Uncertainty in economic analysis
 
-- Discuss risk and uncertainty and how it complicates decision making.
+- Expected utility mechanics.
 - Discuss objective function, VN utility functions, and stochastic dominance.
 - Discuss subtly in moving from VN utility to expected utility.
 - Let's assume the farmer has VN utility $u$ and wants to maximize expected
