@@ -43,6 +43,8 @@ analysis, writing, and presentation.
 
 #### [Course Outline and Readings](./course_outline.md)
 
+#### [Schedule](./schedule.md)
+
 #### Assignments and Grading
 
 - I will distribute at least one homework assignment per topic module.
