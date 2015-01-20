@@ -33,5 +33,6 @@
 
 - How we measure the cost of uncertainty?
 - How does the presence of uncertainty influence behavior?
+- Let's think about a few examples (see risk )
 
 

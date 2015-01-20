@@ -11,4 +11,4 @@ knowing how to do something.
 
 I stumbled across this quote by John Cochrane and can't agree more with his sentiment. Most textbooks really function better as reference books than learning material. The intent of the exercises I offer below is for you to explore problems. Read just enough to get started, and then dive in and get your hands dirty. You will have ample opportunity in future coursework to revisit and contemplate more deeply the underlying theory.
 
-1. [Risk](./risk.md)
+1. [Economic choices under uncertainty with mean-variance utility](./risk_mean_variance.pdf)
