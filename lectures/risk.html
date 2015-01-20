@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<h3 id="risk">Risk</h3>
+<p>Human beings have provided some form of insurance to one another for at least as long as recorded time (e.g., <span class="citation">Bogucki (2011)</span>, <span class="citation">Clare (2010)</span>, <span class="citation">Trenerry (1926)</span>), and the modern world is full of institutional arrangements that protect individuals against risk. One way way to derive demand for these institutions from an economic model is to assume that individuals are inherently <em>risk averse</em> in the sense that they are willing to pay something now in return for a more certain outcome in the future. The <em>expected utility</em> model is a simple representation for this sort of preference. In it, we assume that individuals can rank choices that influence the probability distribution over uncertain future payoffs <span class="math"><em>π</em></span> by comparing the expected value of an increasing state-independent concave utility function <span class="math"><em>u</em>(<em>π</em>)</span> across choices.</p>
+<p>Let's think about this with a few examples. To keep things simple, let's assume initially that a farmer's preferences can be represented by a linear function of the mean and variance of <span class="math"><em>π</em></span>. In particular, for <span class="math"><em>α</em> &gt; 0</span> and <span class="math"><em>β</em> &gt; 0</span>, let</p>
+<p><br /><span class="math">𝔼<em>u</em>(<em>π</em>) = <em>α</em>𝔼<em>π</em> − <em>β</em>var(<em>π</em>).</span><br /></p>
+<p>Further, suppose that <span class="math">$\pi = \overline{\pi}$</span> or <span class="math"><em>π</em> = 0</span> with probabilities <span class="math"><em>p</em></span> and <span class="math">1 − <em>p</em></span>.</p>
+<h4 id="exercises">Exercises</h4>
+<ol style="list-style-type: example">
+<li><p>Demonstrate that a farmer with this utility function is willing to purchase actuarially fair insurance (premium = expected indemnity).</p></li>
+<li><p>Suppose there are two farmers, <span class="math"><em>A</em></span> and <span class="math"><em>B</em></span>, with <span class="math"><em>β</em><sub><em>A</em></sub> &gt; <em>β</em><sub><em>B</em></sub></span>. Characterize optimal risk sharing between these two farmers.</p></li>
+</ol>
+<p>Here's another exercise that relates to a pair of papers (<span class="citation">Chibwana, Fisher, and Shively (2012)</span> and <span class="citation">Dercon (1996)</span>) that you will read next week.</p>
+<ol start="3" style="list-style-type: example">
+<li><p>A farmer has <span class="math"><em>L</em></span> total acres of land, and must choose the acreage <span class="math"><em>l</em><sub><em>i</em></sub></span> to plant this year to each crop. Suppose that there is no risk in the first crop; it has a certain return <span class="math"><em>π</em><sub>1</sub></span>. Crop 2 returns <span class="math"><em>π</em><sub>2</sub> &gt; <em>π</em><sub>1</sub></span> with probability <span class="math"><em>p</em></span> and zero otherwise. How much acreage should the farmer plant to each crop?</p></li>
+<li><p>Write a Python class called LandAllocation() that has &quot;attributes&quot; for model parameters and &quot;methods&quot; for a) farmer utility (for now you can stick with mean-variance preferences), b) the probability distribution of each crop (you may assume there are just two crops as in the previous exercise.), c) the farmers optimal acreage allocation, and e) a plot that summarizes some comparative static that you find interesting. Ideally your methods will accommodate many probability distributions.</p></li>
+<li><p>Suppose the farmer is offered insurance that costs <span class="math"><em>P</em></span> up front (the premium) and reimburses up to 75% of the expected output for each crop (assume that the farmer and the insurance company agree on the relevant distribution for computing this expectation, and that it's the one from your model). Exercise: What is the farmer's willingness to pay for this insurance? What is the welfare gain from insurance? Is there a profit maximizing premium and reimbursement rate for the insurance company?</p></li>
+</ol>
+<div class="references">
+<p>Bogucki, Peter. 2011. “How Wealth Happened in Neolithic Central Europe.” <em>Journal of World Prehistory</em> 24 (2/3).</p>
+<p>Chibwana, Christopher, Monica Fisher, and Gerald Shively. 2012. “Cropland Allocation Effects of Agricultural Input Subsidies in Malawi.” <em>World Development</em> 40 (1): 124–33.</p>
+<p>Clare, Lee. 2010. “Pastoral Clashes: Conflict Risk and Mitigation at the Pottery Neolithic Transition in the Southern Levant.” <em>Neolithics</em> 1 (10): p13–31.</p>
+<p>Dercon, Stefan. 1996. “Risk, Crop Choice, and Savings: Evidence from Tanzania.” <em>Economic Development and Cultural Change</em> 44 (3): 485–513.</p>
+<p>Trenerry, Charles Farley. 1926. <em>The Origin and Early History of Insurance: Including the Contract of Bottomry</em>. The Lawbook Exchange, Ltd.</p>
+</div>
+</body>
+</html>
