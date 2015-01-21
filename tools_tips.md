@@ -16,7 +16,7 @@ Here are a few pointers to computation and version-control resources:
 - Git: This definitely requires an investment and involves some overhead, but I
   think the long-run payoffs can be significant. Aside from the tremendous
   functionality it provides for collaboration and reproducibility, you will
-  benefit from using is yourself as a project-specific research notebook.
+  benefit from using it yourself as a project-specific research notebook.
   [Here](http://nyuccl.org/pages/GitTutorial/) is a gentle introduction with
   good links to additional resources.
 - Python/IPython: For this, I will direct you to the [Quantitative
@@ -41,9 +41,9 @@ Here are a few pointers to computation and version-control resources:
 - Often the hardest to part to writing a research paper is the introduction.
   Don Fullerton provides [a
   template](https://dl.dropboxusercontent.com/u/35757123/writing-general.pdf)
-  (scroll down a bin the document for the Introduction-specific instructions)
-  for structuring your introduction that works remarkably well. I suggest that
-  for your first few research papers you follow this formula.
+  (scroll down a bit in the document for the Introduction-specific
+  instructions) for structuring your introduction that works remarkably well. I
+  suggest that for your first few research papers you follow this formula.
 - The importance of writing well in economics cannot be overemhpasized.
   Searching Google for "writing economics" turns up a whole host of great
   resources. I recommend that you take some time to read through some of these,
