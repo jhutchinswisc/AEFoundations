@@ -42,10 +42,10 @@ each crop?
 (@ex4) Write a Python class called `LandAllocation()` that has "attributes" for
 model parameters and "methods" for a) farmer utility (for now you can stick
 with mean-variance preferences), b) the probability distribution of each crop
-(you may assume there are just two crops as in the previous exercise.), c) the
-farmers optimal acreage allocation, and e) a plot that summarizes some
+(you may assume there are just two crops as in the previous exercise.), c) a
+farmer's optimal acreage allocation, and e) a plot that summarizes some
 comparative static that you find interesting. Ideally your methods will
-accommodate many probability distributions.
+accommodate arbitrary probability distributions.
 
 (@ex5) Suppose the farmer is offered insurance that costs $P$ up front (the
 premium) and reimburses up to 75% of the expected output for each crop (assume
