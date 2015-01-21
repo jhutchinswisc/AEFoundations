@@ -39,7 +39,7 @@ crop; it has a certain return $\pi_1$. Crop 2 returns $\pi_2>\pi_1$ with
 probability $p$ and zero otherwise. How much acreage should the farmer plant to
 each crop?
 
-(@ex4) Write a Python class called LandAllocation() that has "attributes" for
+(@ex4) Write a Python class called `LandAllocation()` that has "attributes" for
 model parameters and "methods" for a) farmer utility (for now you can stick
 with mean-variance preferences), b) the probability distribution of each crop
 (you may assume there are just two crops as in the previous exercise.), c) the
