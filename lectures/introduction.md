@@ -7,10 +7,6 @@
 
 1. My name is Brent, what's yours?
 1. Logistics:
-    - Get Github account
-    - If on Windows, install putty and get ssh key
-    - Send me your ssh key
-    - Fork AEFoundations into your Github account
     - Signup for Zotero; username and look at library
     - After class, go to http://quant-econ.net/py/index.html 
         - Install Anaconda Python 3
